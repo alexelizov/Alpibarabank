@@ -1,0 +1,17 @@
+.Header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffa500;
+    height: 70px;
+    border-bottom: 6px solid;
+     
+}
+
+.HeaderLink {
+    font-size: 30px;
+    font-weight: bolder;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+   }
+

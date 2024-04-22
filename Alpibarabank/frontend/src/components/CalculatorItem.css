@@ -1,0 +1,32 @@
+.CalculatorItem {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #cd7f32;
+    border-radius: 20%;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+     
+}    
+
+.CalculatorItem .btn {
+    height: 25px;
+    border-radius: 10px;
+    border-style: none;
+    font-size: large;
+    color: black;
+    font-weight: 500;
+    background-color: #ffa500;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    right: 5%;
+}
+
+.CalculatorItem p {
+    font-size: x-large;
+    transform: translate(25px, 0);
+    font-weight: bold;
+    padding-right: 50px;
+}
